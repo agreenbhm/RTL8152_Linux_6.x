@@ -1,4 +1,4 @@
-**Realtek USB FE / GBE / 2.5G / 5G Ethernet Family Controller Software**
+# Realtek USB FE / GBE / 2.5G / 5G Ethernet Family Controller Software
 
 Realtek driver for USB NICs listed below with DKMS config and tweaks.  Compatible with Linux 6.x+.  For 5.x and earlier see https://www.realtek.com/Download/List?cate_id=585
 
