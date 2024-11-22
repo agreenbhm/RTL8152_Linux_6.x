@@ -23,3 +23,9 @@ Network Interface Controllers > 10/100/1000M Gigabit Ethernet > USB 2.0
 Network Interface Controllers > 10/100M Fast Ethernet > USB 2.0
 
     RTL8152B
+
+---
+
+## Instructions
+* Clone this repo
+* Run setup.sh
